@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/alexzan__" target="blank"><img src="https://img.shields.io/twitter/follow/alexzan__?logo=twitter&style=for-the-badge" alt="alexzan__" /></a> </p>
 
-- 🔭 I’m currently working on [GamingTalker](https://www.gamingtalker.it)
+- 🔭 I’m currently working on [GamingTalker](https://www.gamingtalker.it) and [Tsushima](https://github.com/AlexzanDev/Tsushima).
 
-- 🌱 I’m currently learning **WordPress, PHP and some JS, I guess!**
+- 🌱 I’m currently learning **WordPress, PHP and some JS, I guess!**.
 
-- ⚡ Fun fact **Nothing.**
+- ⚡ Fun fact: **Nothing**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
